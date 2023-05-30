@@ -8,8 +8,10 @@
 ## "linux"
 * Команда_find
     * Выполнить команду копирования в каталог /wiki, на сервере app2, всех найденных  файлов c расширением ".css" и их родительскую структуру каталогов из  директории  /var/www/html/wiki  на сервере app2
+  
     ```bash
-    find /var/www/html/wiki/ -type f -name "*.css"  -print0 | xargs -0 cp --parents --target-directory /wiki/
+        find /var/www/html/wiki/ -type f -name "*.css"  -print0 | xargs -0 cp --parents --target-directory /wiki/
     ``` 
+# 
 
 
