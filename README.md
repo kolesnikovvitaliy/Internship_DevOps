@@ -1,4 +1,4 @@
-# В этом репозитории я докумментирую, выполнение заданий на стажировке:
+# В этом репозитории я документирую, выполнение заданий на стажировке:
 
 ### IT-Инфраструктура организации:
 <img align="right" src="https://github.com/kolesnikovvitaliy/Internship_DevOps/blob/main/img/infrastructure.png" width="800"/>
